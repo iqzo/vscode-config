@@ -1,0 +1,36 @@
+{
+    "workbench.startupEditor": "none",
+    "workbench.iconTheme": "eq-material-theme-icons-darker",
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDelete": false,
+    "workbench.activityBar.location": "top",
+    "workbench.sideBar.location": "right",
+    "apc.font.family": "Cascadia Code",
+    "apc.electron": {
+        "opacity": 0.90,
+        "transparent": true,
+        "titleBarStyle": "customButtonsOnHover"
+    },
+    "apc.sidebar.titlebar": {
+        "fontSize": 10,
+        "height": 40
+    },
+    "apc.activityBar": {
+        "size": 43,
+        "itemSize": 35
+    },
+    "apc.header": {
+        "height": 30
+    },
+    "apc.listRow": {
+        "height": 20
+    },
+    "apc.statusBar": {
+        "position": "bottom",
+        "fontSize": 10,
+        "height": 30
+    },
+    "editor.stickyScroll.enabled": false,
+    "security.workspace.trust.untrustedFiles": "open"
+}
